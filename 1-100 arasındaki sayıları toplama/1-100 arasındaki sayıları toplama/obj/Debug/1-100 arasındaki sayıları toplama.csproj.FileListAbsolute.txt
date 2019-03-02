@@ -1,0 +1,7 @@
+C:\Users\YUŞA\source\repos\1-100 arasındaki sayıları toplama\1-100 arasındaki sayıları toplama\obj\Debug\1-100 arasındaki sayıları toplama.csprojAssemblyReference.cache
+C:\Users\YUŞA\source\repos\1-100 arasındaki sayıları toplama\1-100 arasındaki sayıları toplama\obj\Debug\1-100 arasındaki sayıları toplama.csproj.CoreCompileInputs.cache
+C:\Users\YUŞA\source\repos\1-100 arasındaki sayıları toplama\1-100 arasındaki sayıları toplama\bin\Debug\1-100 arasındaki sayıları toplama.exe.config
+C:\Users\YUŞA\source\repos\1-100 arasındaki sayıları toplama\1-100 arasındaki sayıları toplama\bin\Debug\1-100 arasındaki sayıları toplama.exe
+C:\Users\YUŞA\source\repos\1-100 arasındaki sayıları toplama\1-100 arasındaki sayıları toplama\bin\Debug\1-100 arasındaki sayıları toplama.pdb
+C:\Users\YUŞA\source\repos\1-100 arasındaki sayıları toplama\1-100 arasındaki sayıları toplama\obj\Debug\1-100 arasındaki sayıları toplama.exe
+C:\Users\YUŞA\source\repos\1-100 arasındaki sayıları toplama\1-100 arasındaki sayıları toplama\obj\Debug\1-100 arasındaki sayıları toplama.pdb

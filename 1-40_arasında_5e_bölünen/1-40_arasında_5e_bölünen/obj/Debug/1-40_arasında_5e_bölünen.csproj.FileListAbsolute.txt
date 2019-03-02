@@ -1,0 +1,7 @@
+C:\Users\YUŞA\source\repos\1-40_arasında_5e_bölünen\1-40_arasında_5e_bölünen\bin\Debug\1-40_arasında_5e_bölünen.exe.config
+C:\Users\YUŞA\source\repos\1-40_arasında_5e_bölünen\1-40_arasında_5e_bölünen\bin\Debug\1-40_arasında_5e_bölünen.exe
+C:\Users\YUŞA\source\repos\1-40_arasında_5e_bölünen\1-40_arasında_5e_bölünen\bin\Debug\1-40_arasında_5e_bölünen.pdb
+C:\Users\YUŞA\source\repos\1-40_arasında_5e_bölünen\1-40_arasında_5e_bölünen\obj\Debug\1-40_arasında_5e_bölünen.csprojAssemblyReference.cache
+C:\Users\YUŞA\source\repos\1-40_arasında_5e_bölünen\1-40_arasında_5e_bölünen\obj\Debug\1-40_arasında_5e_bölünen.csproj.CoreCompileInputs.cache
+C:\Users\YUŞA\source\repos\1-40_arasında_5e_bölünen\1-40_arasında_5e_bölünen\obj\Debug\1-40_arasında_5e_bölünen.exe
+C:\Users\YUŞA\source\repos\1-40_arasında_5e_bölünen\1-40_arasında_5e_bölünen\obj\Debug\1-40_arasında_5e_bölünen.pdb

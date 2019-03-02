@@ -1,0 +1,7 @@
+C:\Users\YUŞA\source\repos\kalıtım ödevi\kalıtım ödevi\bin\Debug\kalıtım ödevi.exe.config
+C:\Users\YUŞA\source\repos\kalıtım ödevi\kalıtım ödevi\bin\Debug\kalıtım ödevi.exe
+C:\Users\YUŞA\source\repos\kalıtım ödevi\kalıtım ödevi\bin\Debug\kalıtım ödevi.pdb
+C:\Users\YUŞA\source\repos\kalıtım ödevi\kalıtım ödevi\obj\Debug\kalıtım ödevi.csprojAssemblyReference.cache
+C:\Users\YUŞA\source\repos\kalıtım ödevi\kalıtım ödevi\obj\Debug\kalıtım ödevi.csproj.CoreCompileInputs.cache
+C:\Users\YUŞA\source\repos\kalıtım ödevi\kalıtım ödevi\obj\Debug\kalıtım ödevi.exe
+C:\Users\YUŞA\source\repos\kalıtım ödevi\kalıtım ödevi\obj\Debug\kalıtım ödevi.pdb
